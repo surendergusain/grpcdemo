@@ -1,4 +1,4 @@
-package grpcdemo
+package main
 
 import "fmt"
 
